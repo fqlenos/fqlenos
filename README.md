@@ -5,7 +5,7 @@
 
 I'm Iñaki (a.k.a. fqlenos) and I'm a cybersec and programming enthusiast base in Madrid.
 
-I'm currently working at [Deliverect](https://www.deliverect.com/en/) as Senior Security Engineer.
+I'm currently working at [Swiss Re](https://www.swissre.com/) as Cybersecurity Software Developer.
 
 Also, you can find me on:
 
